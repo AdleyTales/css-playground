@@ -1,2 +1,4 @@
 # css-playground
-css色彩
+
+### css 渐变色背景
+![](./pic/1.png)
